@@ -1,7 +1,5 @@
-import { StatusBar } from 'expo-status-bar';
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
-import Constants from 'expo-constants';
 import { EXPO_API_KEY } from '@env';
 
 const App = () => {
